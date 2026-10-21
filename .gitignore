@@ -20,4 +20,5 @@ yarn-error.log
 
 composer.phar
 
-/public/assets/img
+
+/public/assets/img/cases
